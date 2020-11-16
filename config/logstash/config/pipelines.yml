@@ -1,0 +1,2 @@
+- pipeline.id: elk
+  path.config: "/usr/share/logstash/pipeline/logstash-elk.conf"

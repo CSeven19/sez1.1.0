@@ -1,0 +1,7 @@
+network.host: 0.0.0.0
+http.port: 9200
+xpack:
+  ml.enabled: false
+  monitoring.enabled: false
+  security.enabled: false
+  watcher.enabled: false

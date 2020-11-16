@@ -1,0 +1,10 @@
+firewall-cmd --permanent --add-port=8000/tcp &&
+firewall-cmd --permanent --add-port=4560/tcp &&
+firewall-cmd --permanent --add-port=10051/tcp &&
+firewall-cmd --permanent --add-port=10052/tcp &&
+firewall-cmd --permanent --add-port=5601/tcp &&
+firewall-cmd --permanent --add-port=8766/tcp &&
+firewall-cmd --permanent --add-port=9200/tcp &&
+firewall-cmd --permanent --add-port=5044/tcp &&
+firewall-cmd --permanent --add-port=9600/tcp &&
+firewall-cmd --permanent --add-port=9300/tcp
