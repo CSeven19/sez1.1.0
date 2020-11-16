@@ -7,29 +7,29 @@ use springboot admin & elastic kibana & zabbix to monitor you Micro services
 
 
 # Files
-config 	# ÅäÖÃÎÄ¼ş¼Ğ
-docker	# docker²¿ÊğÎÄ¼ş¼Ğ
-ELK	# Elasticsearch+Logstash+Kibana²¿ÊğÎÄ¼ş¼Ğ
-eureka	# SBA²âÊÔÓÃ×¢²á·şÎñ£¬²»ÓÃ°²×°
-logs	# ¼à¿ØÈÕÖ¾ÎÄ¼ş¼Ğ
-SBA	# Springboot Admin²¿ÊğÎÄ¼ş¼Ği
-cronddir # ¶¨Ê±ÈÎÎñ½Å±¾
-Zabbix	# Zabbix²¿ÊğÎÄ¼ş¼Ğ
-ReadMe.txt      # ³ÌĞòËµÃ÷
-install_all.sh	# °²×°sba+elk+zabbixÕûÌ×³ÌĞò
-install_customized.sh	# ¿ÉÑ¡Ôñ°²×°sha,elk,zabbixÈÎÒâÒ»Ì×¼°¼¸Ì×·şÎñ
-start_all.sh	# Æô¶¯ËùÓĞ·şÎñ
-start_sba.sh	# Æô¶¯sba·şÎñ
-start_elk.sh	# Æô¶¯elk·şÎñ
-start_zabbix	# Æô¶¯zabbix·şÎñ
-stop_all.sh	# ¹Ø±ÕËùÓĞ·şÎñ
-stop_elk.sh	# ¹Ø±Õelk
-stop_sba.sh	# ¹Ø±Õsba
-stop_zabbix.sh	# ¹Ø±Õzabbix
-restart_all.sh	# ÖØÆôËùÓĞ·şÎñ
-portrelease.sh	# ¶Ë¿Ú¿ª·Å½Å±¾
-es_data_clear.sh	# elasticsearchÊı¾İ¶¨Ê±ÇåÀí½Å±¾
-es_index_listener.sh	# esË÷Òı¼à¿Ø½Å±¾
+config 	# é…ç½®æ–‡ä»¶å¤¹  
+docker	# dockeréƒ¨ç½²æ–‡ä»¶å¤¹  
+ELK	# Elasticsearch+Logstash+Kibanaéƒ¨ç½²æ–‡ä»¶å¤¹  
+eureka	# SBAæµ‹è¯•ç”¨æ³¨å†ŒæœåŠ¡ï¼Œä¸ç”¨å®‰è£…  
+logs	# ç›‘æ§æ—¥å¿—æ–‡ä»¶å¤¹  
+SBA	# Springboot Adminéƒ¨ç½²æ–‡ä»¶å¤¹i  
+cronddir # å®šæ—¶ä»»åŠ¡è„šæœ¬  
+Zabbix	# Zabbixéƒ¨ç½²æ–‡ä»¶å¤¹  
+ReadMe.txt      # ç¨‹åºè¯´æ˜  
+install_all.sh	# å®‰è£…sba+elk+zabbixæ•´å¥—ç¨‹åº  
+install_customized.sh	# å¯é€‰æ‹©å®‰è£…sha,elk,zabbixä»»æ„ä¸€å¥—åŠå‡ å¥—æœåŠ¡  
+start_all.sh	# å¯åŠ¨æ‰€æœ‰æœåŠ¡  
+start_sba.sh	# å¯åŠ¨sbaæœåŠ¡  
+start_elk.sh	# å¯åŠ¨elkæœåŠ¡  
+start_zabbix	# å¯åŠ¨zabbixæœåŠ¡  
+stop_all.sh	# å…³é—­æ‰€æœ‰æœåŠ¡  
+stop_elk.sh	# å…³é—­elk  
+stop_sba.sh	# å…³é—­sba  
+stop_zabbix.sh	# å…³é—­zabbix  
+restart_all.sh	# é‡å¯æ‰€æœ‰æœåŠ¡  
+portrelease.sh	# ç«¯å£å¼€æ”¾è„šæœ¬  
+es_data_clear.sh	# elasticsearchæ•°æ®å®šæ—¶æ¸…ç†è„šæœ¬  
+es_index_listener.sh	# esç´¢å¼•ç›‘æ§è„šæœ¬  
 
 
 # License
