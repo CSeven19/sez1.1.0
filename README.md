@@ -3,7 +3,8 @@ sez1.1.0
 
 [![NuGet](https://img.shields.io/nuget/v/LitJson.svg)](https://www.nuget.org/packages/LitJson) [![MyGet](https://img.shields.io/myget/litjson/vpre/LitJson.svg?label=myget)](https://www.myget.org/gallery/litjson)
 
-use springboot admin & elastic kibana & zabbix to monitor you Micro services
+use springboot admin & elastic kibana & zabbix to monitor you Micro services  
+deploy by docker
 
 
 # Files
